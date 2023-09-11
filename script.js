@@ -15,7 +15,7 @@ document.addEventListener("mousemove",function(dets){
 
 gsap.to("#nav" , { // purple bracket ke andar nav id pr jo property set krna hai kr do
     backgroundColor : "#000",
-    height:"120px",
+    height:"100px",
     duration:0.5,
     scrollTrigger:{
         trigger:"#nav",
