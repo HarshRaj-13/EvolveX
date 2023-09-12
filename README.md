@@ -4,10 +4,10 @@
 Welcome to the EvolveX Fitness Gym website! This project showcases a modern website for a fitness gym, featuring fitness programs, Zumba lessons, sports activities, a cafe, and more.
 
 # Table of Contents
-<h4>1.Overview</h4>
-<h4>2.Demo</h4>
-<h4>3.Features</h4>
-<h4>4.Usage</h4>
+<h4>1. Overview</h4>
+<h4>2. Demo</h4>
+<h4>3. Features</h4>
+<h4>4. Usage</h4>
 
 ## 1.Overview
 <p>This website aims to provide information about EvolveX Fitness Gym and its various offerings. It utilizes HTML, CSS, and JavaScript to create an interactive user experience.</p>
