@@ -23,7 +23,7 @@ You can see a live demo of this website [here.](https://harshraj-13.github.io/Ev
 
 ## 4.Installation
 <h4>1.Clone the repository to your local machine:</h4>
-git clone https://github.com/HarshRaj-13/evolvex-fitness-gym.git
+git clone https://github.com/HarshRaj-13/EvolveX
 <h4>2.Navigate to the project directory:</h4>
 cd evolvex-fitness-gym
 
