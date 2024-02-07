@@ -1,7 +1,7 @@
 # EvolveX
 <h3>Commercial-Gym-Website</h3>
 <img height="150px" src="logo.jpg" alt="logo">
-Welcome to the EvolveX Fitness Gym website! This project showcases a modern website for a fitness gym, featuring fitness programs, Zumba lessons, sports activities, a cafe, and more.
+Welcome to the EvolveX Fitness Gym website! This project showcases a modern website for a fitness gym, featuring fitness programs, Zumba lessons, sports activities, a cafe, and more. 
 
 # Table of Contents
 <h4>1. Overview</h4>
@@ -19,9 +19,9 @@ You can see a live demo of this website [here.](https://harshraj-13.github.io/Ev
 <h4>1. 3D Effects.</h4>
 <h4>2. Informative sections for gym programs, offers, and about us.</h4>
 <h4>3. Contact and social media links in the footer.</h4>
-
 ## 4.Usage
 <h4>1. Open the index.html file in your web browser to view the website locally.</h4>
 <h4>2. Explore different sections, programs, and offers.</h4>
 <h4>3. Customize the content in the HTML, CSS, and JavaScript files to fit your needs.</h4>
-
+## 5.Limitations
+<h4>The website is limited in its responsiveness, as it is designed to adapt to laptop screens and mid-size tablets but lacks responsiveness for smartphones and small size Tablets with screen size of less than 8 inches </h4>
