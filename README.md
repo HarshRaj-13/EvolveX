@@ -27,5 +27,5 @@ You can see a live demo of this website [here.](https://harshraj-13.github.io/Ev
 <h4>2. Explore different sections, programs, and offers.</h4>
 <h4>3. Customize the content in the HTML, CSS, and JavaScript files to fit your needs.</h4>
 
-## ## <a name="limitation">🔗 Limitation</a>
+## <a name="limitation">🔗 Limitation</a>
 <h4>The website is limited in its Responsiveness, as it is designed to adapt to laptop screens and mid-size tablets but lacks Responsiveness for smartphones and small size Tablets with screen size of less than 8 inches. </h4>
